@@ -9,3 +9,5 @@ function get_local_storage() {
 function log_demo() {
     console.log('Import worked!!!');   
 }
+
+console.log('Log at load!!!');
