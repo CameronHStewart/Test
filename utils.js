@@ -1,3 +1,9 @@
+window.bot_utils = {
+    log_demo: () => {
+        console.log('Import worked!!!');
+    }
+}
+
 function get_local_storage() {
     let aaa_storage = localStorage.getItem('aaa_storage');
     let json_aaa_storage = {};
