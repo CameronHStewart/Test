@@ -5,4 +5,8 @@ window.bot_utils = {
         console.log('Import worked 2!!!');   
     }
 }
+
+function log_demo() {
+    console.log('Import worked!!!');   
+}
  
