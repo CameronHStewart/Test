@@ -5,3 +5,7 @@ function get_local_storage() {
         json_aaa_storage = JSON.parse(aaa_storage);
     }
 }
+
+function log_demo() {
+    console.log('Import worked!!!');   
+}
